@@ -1,0 +1,9 @@
+C:\Users\Victor\Desktop\Blazor\BlazorList-master\Shared\bin\Debug\netstandard2.1\blazorizeApp.Shared.deps.json
+C:\Users\Victor\Desktop\Blazor\BlazorList-master\Shared\bin\Debug\netstandard2.1\blazorizeApp.Shared.dll
+C:\Users\Victor\Desktop\Blazor\BlazorList-master\Shared\bin\Debug\netstandard2.1\blazorizeApp.Shared.pdb
+C:\Users\Victor\Desktop\Blazor\BlazorList-master\Shared\obj\Debug\netstandard2.1\blazorizeApp.Shared.csprojAssemblyReference.cache
+C:\Users\Victor\Desktop\Blazor\BlazorList-master\Shared\obj\Debug\netstandard2.1\blazorizeApp.Shared.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Blazor\BlazorList-master\Shared\obj\Debug\netstandard2.1\blazorizeApp.Shared.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Blazor\BlazorList-master\Shared\obj\Debug\netstandard2.1\blazorizeApp.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Blazor\BlazorList-master\Shared\obj\Debug\netstandard2.1\blazorizeApp.Shared.dll
+C:\Users\Victor\Desktop\Blazor\BlazorList-master\Shared\obj\Debug\netstandard2.1\blazorizeApp.Shared.pdb
